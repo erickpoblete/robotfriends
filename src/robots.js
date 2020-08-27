@@ -64,5 +64,12 @@ export const robots = [
     name: 'Erick Poblete',
     username: 'ThatKidPoblete',
     email: 'Erick@eepproductions.org'
+  },
+  {
+      id: `6263483400`,
+      name: 'Melissa Soto',
+      username: 'Queen Melissa!',
+      email: 'melissa@gmail.com'
   }
+  
 ];
